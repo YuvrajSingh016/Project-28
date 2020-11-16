@@ -11,7 +11,8 @@ var world,boy;
 var launchingForce=100;
 
 function preload(){
-	boy=loadImage("images/boy.png");
+  
+  boy=loadImage("images/boy.png");
   }
 
 function setup() {
